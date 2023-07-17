@@ -80,12 +80,12 @@ No es necesario clonar este repositorio.
 ### Cuarto año
 
 #### [4to 1C - Lenguajes Formales y Computabilidad](https://github.com/FAMAF-resources/4to_1C-LenguajesFormales_y_Computabilidad-FAMAF)
-#### [4to 1C - Modelos y Simulacion](https://github.com/FAMAF-resources/)
+#### [4to 1C - Modelos y Simulacion](https://github.com/FAMAF-resources/4to_1C-Modelos_y_Simulacion-FAMAF)
 
-#### [4to 2C - Logica](https://github.com/FAMAF-resources/)
-#### [4to 2C - Fisica](https://github.com/FAMAF-resources/)
+#### [4to 2C - Logica](https://github.com/FAMAF-resources/4to_2C-Logica-FAMAF)
+#### [4to 2C - Fisica](https://github.com/FAMAF-resources/4to_2C-Fisica-FAMAF)
 
 ### Quinto año
 
-#### [5to 1C - Lenguajes y Compiladores](https://github.com/FAMAF-resources/)
-#### [5to 1C - Ingenieria del Software II](https://github.com/FAMAF-resources/)
+#### [5to 1C - Lenguajes y Compiladores](https://github.com/FAMAF-resources/5to_1C-Lenguajes_y_Compiladores-FAMAF)
+#### [5to 1C - Ingenieria del Software II](https://github.com/FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF)
