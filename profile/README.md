@@ -1,4 +1,4 @@
-# :star: Recursos y apuntes FAMAF :star:
+# :star: Recursos y apuntes FAMAF :star: (Public)
 
 Este es un proyecto con fines de facilitar el acceso al material para estudio, creado por estudiantes para estudiantes.
 
@@ -14,7 +14,11 @@ Agradecemos el compartir o aportar! :+1:
 
 [Fondo negro](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20de%20Famaf.png)
 
-[Fondo blanco *proximamente*](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20de%20Famaf.png)
+[Fondo blanco](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20-%20Graph%20Light.png)
+
+[Guri](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20-%20Guri%20Scan.jpg)
+
+[Franja Morada](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20-%20Morada%20Scan.jpg)
 
 ## Apuntes y libros 📚
 
