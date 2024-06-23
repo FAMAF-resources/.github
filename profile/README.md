@@ -8,6 +8,8 @@ Se encuentran recopilatorios de apuntes, resumenes y libros utilizados en FAMAFy
 
 Agradecemos el compartir o aportar! :+1:
 
+Repositorio indice: [Welcome](https://github.com/FAMAF-resources/Welcome)
+
 ## Mapa de correlativas (para imprimir) :printer:
 
 ### Licenciatura en Cs. de la Computacion :computer:
@@ -28,7 +30,8 @@ Estamos en el proceso de compartir y aportar.
 
 ## Examenes y parciales 📑
 
-- [**Repositorio**](https://github.com/ExamenesViejos-FaMAF-Computacion)
+- [**Repositorio Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
+- [**Repositorio Matematica Aplicada**](https://github.com/FAMAF-resources/LMA_ExamenesViejos-FAMAF)
 
 ## Sugerencias generales de la comunidad :sunglasses:
 
