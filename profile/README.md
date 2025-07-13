@@ -2,48 +2,41 @@
 
 Este es un proyecto con fines de facilitar el acceso al material para estudio, creado por estudiantes para estudiantes.
 
-La idea es crear una [**comunidad**](https://github.com/orgs/FAMAF-resources/discussions) para plantear ideas e implementaciones para el cursado.
+La idea es crear una [**comunidad**](https://github.com/orgs/FAMAF-resources/discussions) para facilitar contenido de estudio para otros estudiantes, y plantear ideas e implementaciones para el cursado.
 
-Se encuentran recopilatorios de apuntes, resumenes y libros utilizados en FAMAFyC.
+Recopilamos apuntes, resumenes y libros utilizados en FAMAFyC.
 
-Agradecemos el compartir o aportar! :+1:
+¡Agradecemos el compartir o aportar! :+1:
 
-Repositorio indice: [Welcome](https://github.com/FAMAF-resources/Welcome)
+# ¿Buscás una materia en particular?
 
-## Mapa de correlativas (para imprimir) :printer:
+Podrás encontrar la materia en el [**Repositorio índice**](https://github.com/FAMAF-resources/Welcome)
 
-### Licenciatura en Cs. de la Computacion :computer:
+# Otros Recursos
 
-[Fondo negro](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20de%20Famaf.png)
+## Links Útiles 📑
 
-[Fondo blanco](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20-%20Graph%20Light.png)
+- [📚 **Fechas de mesas de Exámenes** (de Milena Pellegrino)](https://milenapellegrino.github.io/feexa/)
+- [**Pagina FAMAFyC**](https://www.famaf.unc.edu.ar/)
+- [**Guarani**](https://autogestion.guarani.unc.edu.ar/)
+- [**Secretaria de Asuntos Estudiantiles**](https://www.unc.edu.ar/)
+- [**Materias de Licenciatura de Matematica Aplicada**](https://github.com/FAMAF-resources/LMA_Materias-FAMAF)
 
-[Guri](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20-%20Guri%20Scan.jpg)
+## Exámenes Viejos
 
-[Franja Morada](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20-%20Morada%20Scan.jpg)
+- [**Exámenes Viejos Computación**](https://github.com/ExamenesViejos-FaMAF-Computacion)
+- [**Exámenes Viejos Matematica Aplicada**](https://github.com/FAMAF-resources/LMA_ExamenesViejos-FAMAF)
 
-## Apuntes y libros 📚
+## Mapa de correlativas :printer:
 
-Estamos en el proceso de compartir y aportar.
+### Lic. en Ciencias de la Computación :computer:
 
-- [**Inicio**](https://github.com/FAMAF-resources/Welcome)
+- [Guri](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20-%20Guri%20Scan.jpg)
+- [Franja Morada](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20-%20Morada%20Scan.jpg)
+- [Fondo negro](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20de%20Famaf.png)
+- [Fondo blanco](https://github.com/FAMAF-resources/Welcome/blob/main/images/Correlativas%20-%20Graph%20Light.png) 
 
-## Examenes y parciales 📑
 
-- [**Repositorio Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
-- [**Repositorio Matematica Aplicada**](https://github.com/FAMAF-resources/LMA_ExamenesViejos-FAMAF)
-
-## Sugerencias generales de la comunidad :sunglasses:
+# Contribuir o Participar
 
 Crear un issue con titulo y descripcion clara en [Welcome - issues](https://github.com/FAMAF-resources/Welcome/issues) o en [Welcome - Discussions](https://github.com/orgs/FAMAF-resources/discussions)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
