@@ -41,4 +41,4 @@ Podrás encontrar la materia en el [**Repositorio índice**](https://github.com/
 
 Crear un issue con titulo y descripcion clara en [Welcome - issues](https://github.com/FAMAF-resources/Welcome/issues) o en [Welcome - Discussions](https://github.com/orgs/FAMAF-resources/discussions)
 
-[**Contacto**](recursos.estudio.estudiantes@gmail.com)
+**Contacto** : recursos.estudio.estudiantes@gmail.com
