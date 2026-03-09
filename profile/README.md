@@ -17,6 +17,7 @@ Podrás encontrar la materia en el [**Repositorio índice**](https://github.com/
 ## Links Útiles 📑
 
 - [📚 **Fechas de mesas de Exámenes** (de Milena Pellegrino)](https://milenapellegrino.github.io/feexa/)
+- [🕑 **Buscador de Horarios de Cursada** (de Joaquín Ferreyra)](https://joaquinunc.github.io/horariosFAMAF/)
 - [**Pagina FAMAFyC**](https://www.famaf.unc.edu.ar/)
 - [**Guarani**](https://autogestion.guarani.unc.edu.ar/)
 - [**Secretaria de Asuntos Estudiantiles**](https://www.unc.edu.ar/)
